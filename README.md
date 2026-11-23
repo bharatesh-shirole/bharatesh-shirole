@@ -11,7 +11,7 @@ I turn healthcare claims, billing and payment data into insights that reduce den
 - **Also using:** Generative AI tools for analysis and automation
 
 ## 📊 Featured project
-**[Healthcare Claims Denial Analysis](https://github.com/believergithub/claims-denial-analysis)**
+**[Healthcare Claims Denial Analysis](https://github.com/bharatesh-shirole/claims-denial-analysis)**
 Python-generated synthetic claims dataset, 8 SQL queries, and a Power BI dashboard covering denial rates, denial reasons, pending claims aging and monthly trends.
 
 ## 📫 Connect
